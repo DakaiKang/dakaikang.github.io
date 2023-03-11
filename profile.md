@@ -4,7 +4,7 @@ title: "Dakai Kang"
 permalink: /
 ---
 
-I am a first-year Ph.D. Computer Science student at [ExpoLab](https://expolab.org), UC Davis. My Principal Investigator is [Prof.Sadoghi](https://expolab.org). My main research interest is BFT consensus protocols, especially HotStuff variants and concurrent consensus protocols. My latest research product is a high-throughput Practical View-Change-Less Protocol (PVP) that enables primary rotation, fast view synchronization, and concurrent consensus.
+I am a first-year Ph.D. Computer Science student at [ExpoLab](https://expolab.org), UC Davis. My Principal Investigator is [Prof.Sadoghi](https://expolab.org). My main research interest is BFT consensus protocols, especially HotStuff variants and concurrent consensus protocols. My latest research outcome is a high-throughput Practical View-Change-Less Protocol (PVP) that enables primary rotation, fast view synchronization, and concurrent consensus.
 
 
 
