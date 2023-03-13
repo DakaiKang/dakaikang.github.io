@@ -43,5 +43,11 @@ I conduct my research on our resilient data platform **[ResilientDB](https://res
 - Intern Software Engineer, Hangzhou Zhuxing Information Technology Co., Ltd, 2020. [Learn More]
 - Research Assistant, Global Research Experience In Advanced Technologies \[GREAT Program\], UC Davis, 2021. [Learn More]
 
+## Other Personal Links
+
+- [Google Scholar](https://scholar.google.com/citations?hl=en&user=Ut1KRqoAAAAJ)
+- [LinkedIn](https://www.linkedin.com/in/dakai-kang-288451227/)
+- [Instagram](https://www.instagram.com/dakaikang4/)
+
 #### Science is for Human Development
 *The purpose of scientific research is to bring a better life to the human beings. I fully support any action that is conducive to the spread of universal values and the development of human civilization, and firmly stand with the oppressed weak around the world.*
