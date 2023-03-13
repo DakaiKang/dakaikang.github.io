@@ -37,6 +37,11 @@ I conduct my research on our resilient data platform **[ResilientDB](https://res
 - ECS165A, Databases, UC Davis, [Winter 2023](https://expolab.org/ecs165a-winter2023.html), Teaching Assistant
 
 
+## Experiences
+
+- Bachelor's Degree in Engineering, Zhejiang University, 2022. [Learn More]
+- Intern Software Engineer, Hangzhou Zhuxing Information Technology Co., Ltd, 2020. [Learn More]
+- Research Assistant, Global Research Experience In Advanced Technologies \[GREAT Program\], UC Davis, 2021. [Learn More]
 
 #### Science is for Human Development
 *The purpose of scientific research is to bring a better life to the human beings. I fully support any action that is conducive to the spread of universal values and the development of human civilization, and firmly stand with the oppressed weak around the world.*
