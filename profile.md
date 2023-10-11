@@ -4,7 +4,7 @@ title: "Dakai Kang"
 permalink: /
 ---
 
-I am a first-year Ph.D. Computer Science student at [ExpoLab](https://expolab.org), UC Davis. My Principal Investigator is [Prof. Sadoghi](https://expolab.org). My main research interest is BFT consensus protocols, especially HotStuff variants and concurrent consensus protocols. My latest research outcome is a high-throughput Practical View-Change-Less Protocol (PVP) that enables primary rotation, fast view synchronization, and concurrent consensus.
+I am a second-year Ph.D. Computer Science student at [ExpoLab](https://expolab.org), UC Davis. My Principal Investigator is [Prof. Sadoghi](https://expolab.org). My main research interest is BFT consensus protocols, especially DAG variants, HotStuff variants and concurrent consensus protocols. My last research outcome is a high-throughput Practical View-Change-Less Protocol (PVP) that enables primary rotation, fast view synchronization, and concurrent consensus. Currently, I am researching fairness issues in DAG protocols.
 
 
 
@@ -14,7 +14,8 @@ I am a first-year Ph.D. Computer Science student at [ExpoLab](https://expolab.or
 
 ## Research
 
-I conduct my research on our resilient data platform **[ResilientDB](https://resilientdb.com)** [[blog](https://blog.resilientdb.com), [codebase](https://github.com/resilientdb/resilientdb)], a distributed ledger centered around a democratic and decentralized computational model that further aims to unify secure transactional and real-time analytical processing. I implemented and tested PVP, *a high-throughput Practical View-Change-Less Protocol that enables primary rotation, fast view synchronization, and concurrent consensus*, in the legacy version of ResilientDB.  Now our focus is to build the Next Generation of ResilientDB, referred to as **‘[NexRes](https://resilientdb.com)’**, a complete architectural re-write. Along with my outstanding peer Junchao, in NexRes, we have re-architected and re-imagined modular system design from scratch that embeds parallelism and deep pipelining at every layer to fully exploit modern hardware and cloud infrastructure globally. We have a strong NexRes team and I lead the concurrent consensus protocols module and recovery module in NexRes.
+I conduct my research on our resilient data platform **[ResilientDB](https://resilientdb.com)** [[blog](https://blog.resilientdb.com), [codebase](https://github.com/resilientdb/resilientdb)], a distributed ledger centered around a democratic and decentralized computational model that further aims to unify secure transactional and real-time analytical processing. I implemented and tested PVP, *a high-throughput Practical View-Change-Less Protocol that enables primary rotation, fast view synchronization, and concurrent consensus*, in the legacy version of ResilientDB.  Now our focus is to build the Next Generation of ResilientDB, referred to as **‘[NexRes](https://resilientdb.com)’**, a complete architectural re-write. Along with my outstanding peer Junchao, in NexRes, we have re-architected and re-imagined modular system design from scratch that embeds parallelism and deep pipelining at every layer to fully exploit modern hardware and cloud infrastructure globally. We have a strong NexRes team and I lead the concurrent consensus protocols module and recovery module in NexRes. 
+Currently, I am researching fairness issues in DAG protocols.
 
 
 
@@ -35,7 +36,7 @@ I conduct my research on our resilient data platform **[ResilientDB](https://res
 ## Teaching
 
 - ECS165A, Databases, UC Davis, [Winter 2023](https://expolab.org/ecs165a-winter2023.html), Teaching Assistant
-
+- ECS189F, Special Topics: Databases, UC Davis, [Fall 2023](https://expolab.org/ecs189f-fall-2023/index.html), Teaching Assistant
 
 ## Experiences
 
