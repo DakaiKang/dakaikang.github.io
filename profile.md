@@ -17,8 +17,8 @@ I conduct my research on our resilient data platform **[ResilientDB](https://res
 The latest research works are:
 
 - SpotLess (Accepted by ICDE 2024): A high-throughput Practical Rotational Consensus Protocol with a practical Rapid View Synchronization Mechanism. SpotLess has been implemented and tested in the legacy version of ResilientDB.
-- HotStuff-1 (Accepted by ICDE 2024): A consensus protocol with low latency boosted by speculation and robust Byzantine fault tolerance, supported by a slotting mechanism. HotStuff-1 is implemented and tested in the new version of ResilientDB.
-- Fides (Under VLDB 2025 Submission): An asynchronous DAG-based BFT consensus protocol that leverages Trusted Execution Environments (TEEs) to achieve a smaller required quorum size, low cryptographic overhead, and resistance to censorship. Fides is implemented and tested in the new version of ResilientDB.
+- HotStuff-1 (Accepted by SIGMOD 2025): A consensus protocol with low latency boosted by speculation and robust Byzantine fault tolerance, supported by a slotting mechanism. HotStuff-1 is implemented and tested in the new version of ResilientDB.
+- Fides (Under Submission): An asynchronous DAG-based BFT consensus protocol that leverages Trusted Execution Environments (TEEs) to achieve a smaller required quorum size, low cryptographic overhead, and resistance to censorship. Fides is implemented and tested in the new version of ResilientDB.
 - FairDAG (In Progress): A set of consensus protocols that aim to improve the fairness of transaction ordering in BFT consensus. FairDAG runs fair-ordering protocols on top of DAG-based consensus protocols, leveraging the properties of DAG-based consensus protocols to further enhance fair transaction ordering.
 
 
