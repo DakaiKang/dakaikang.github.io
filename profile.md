@@ -47,11 +47,16 @@ The latest research works are:
 - ECS265, Distributed Database Systems, UC Davis, [Fall 2024](https://expolab.org/ecs265-fall2024.html), Teaching Assistant
 
 
-## Experiences
+## Educational Experiences
 
-- Bachelor's Degree in Engineering, Zhejiang University, 2022. [Learn More]
-- Intern Software Engineer, Hangzhou Zhuxing Information Technology Co., Ltd, 2020. [Learn More]
-- Research Assistant, Global Research Experience In Advanced Technologies \[GREAT Program\], UC Davis, 2021. [Learn More]
+- Bachelor's Degree in Engineering, Zhejiang University, 2022.
+- Research Assistant, Global Research Experience In Advanced Technologies \[GREAT Program\], UC Davis, 2021.
+
+
+## Professional Experiences
+
+- Intern Software Engineer, Hangzhou Zhuxing Information Technology Co., Ltd, Hangzhou, 2020.
+- Research Intern, Mysten Labs, Palo Alto, Staring in Jun 2025.
 
 ## Other Personal Links
 
