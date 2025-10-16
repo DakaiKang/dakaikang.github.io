@@ -17,11 +17,11 @@ I am a fourth-year Ph.D. student in Computer Science at ExpoLab, UC Davis, where
 
 [2] Gupta, S., <u>Kang, D.</u>, Malkhi, D., & Sadoghi, M. (2025). Brief Announcement: Carry the Tail in Consensus Protocols. *39th International Symposium on Distributed Computing (**DISC**), 2025*. *[Preprint](https://www.arxiv.org/pdf/2508.12173), [Blog](https://decentralizedthoughts.github.io/2025-09-27-carry-the-tail/).* 
 
-[3] <u>Kang, D.</u>, Gupta, S., Malkhi, D., & Sadoghi, M. (2025). Hotstuff-1: Linear consensus with one-phase speculation. *Proceedings of the ACM on Management of Data (SIGMOD)*, *3*(3), 1-29. [*Preprint*](https://arxiv.org/abs/2408.04728), [*Paper*](https://dl.acm.org/doi/10.1145/3725308), [*Blog*](https://decentralizedthoughts.github.io/2024-08-24-hotstuff1/).
+[3] <u>Kang, D.</u>, Gupta, S., Malkhi, D., & Sadoghi, M. (2025). Hotstuff-1: Linear consensus with one-phase speculation. *Proceedings of the ACM on Management of Data (**SIGMOD**)*, *3*(3), 1-29. [*Preprint*](https://arxiv.org/abs/2408.04728), [*Paper*](https://dl.acm.org/doi/10.1145/3725308), [*Blog*](https://decentralizedthoughts.github.io/2024-08-24-hotstuff1/).
 
 [4] <u>Kang, D.</u>, Rahnama, S., Hellings, J., & Sadoghi, M. (2024, May). Spotless: Concurrent rotational consensus made practical through rapid view synchronization. *In 2024 IEEE 40th International Conference on Data Engineering (**ICDE**)(pp. 1916-1929). IEEE.* [*Preprint*](https://arxiv.org/abs/2302.02118), [*Paper*](https://ieeexplore.ieee.org/document/10597971/).
 
-### Preprints
+#### Preprints
 
 [5] Xie, S., <u>Kang, D</u>., Lyu, H., Niu, J., & Sadoghi, M. (2025). Fides: Scalable Censorship-Resistant DAG Consensus via Trusted Components. *arXiv preprint arXiv:2501.01062*. [*Preprint*](https://arxiv.org/abs/2501.01062).
 
