@@ -28,25 +28,26 @@ I am a fourth-year Ph.D. student in Computer Science at ExpoLab, UC Davis, where
 
 ## Professional Experiences
 
-- Research Intern, Mysten Labs, Palo Alto, June 2025 - September 2025.
-  - Conducting research on transaction scheduling for parallel execution in multi-proposer Byzantine Fault Tolerant (BFT) consensus protocols.
-- Intern Software Engineer, Hangzhou Zhuxing Information Technology Co., Ltd, Hangzhou, 2020.
-
+##### ● Research Intern, Mysten Labs, Palo Alto, June 2025 - September 2025.
+Conducting research on transaction scheduling for parallel execution in multi-proposer Byzantine Fault Tolerant (BFT) consensus protocols.
+##### ● Intern Software Engineer, Hangzhou Zhuxing Information Technology Co., Ltd, Hangzhou, 2020.
+Full-stack software development.
 
 
 ## Peer Review Service
 
-- **Invited Reviewer**
-  - IEEE Transactions on Information Forensics and Security (T-IFS), 2025
-  - IEEE Transactions on Dependable and Secure Computing (TDSC), 2025
-  - ACM SIGMOD ARI (Availability & Reproducibility Initiative), 2025
-  - European Conference on Computer Systems (EuroSys) Shadow PC program, 2026
-- **External Reviewer**
-  - ACM Conference on Computer and Communications Security (CCS), 2025
-  - International Conference on Very Large Data Bases (VLDB), 2023-2025
-  - ACM Special Interest Group on Management of Data (SIGMOD),  2024-2025
-  - IEEE International Conference on Data Engineering (ICDE), 2024
-  - ACM/IFIP International Middleware Conference (Middleware), 2024
+##### **Invited Reviewer**
+● IEEE Transactions on Information Forensics and Security (**T-IFS**), 2025\\
+● IEEE Transactions on Dependable and Secure Computing (**TDSC**), 2025\\
+● ACM **SIGMOD ARI** (Availability & Reproducibility Initiative), 2025\\
+● European Conference on Computer Systems **(EuroSys) Shadow PC** program, 2026
+
+##### **External Reviewer**
+● ACM Conference on Computer and Communications Security (**CCS**), 2025\\
+● International Conference on Very Large Data Bases (**VLDB**), 2023-2025\\
+● ACM Special Interest Group on Management of Data (**SIGMOD**),  2024-2025\\
+● IEEE International Conference on Data Engineering (**ICDE**), 2024\\
+● ACM/IFIP International Middleware Conference (**Middleware**), 2024
 
 
 
@@ -55,29 +56,25 @@ I am a fourth-year Ph.D. student in Computer Science at ExpoLab, UC Davis, where
 I conduct my research on our resilient data platform **[ResilientDB](https://resilientdb.incubator.apache.org)** [[blog](https://blog.resilientdb.com), [codebase](https://github.com/resilientdb/resilientdb)], a distributed ledger that centers around a democratic and decentralized computational model, with the goal of unifying secure transactional and real-time analytical processing. ResilientDB is currently under Apache Incubation. Since 2022, alongside my talented peer Junchao, we have re-architected and re-imagined its modular system design from the ground up. Our design embeds parallelism and deep pipelining at every layer to fully harness modern hardware and cloud infrastructure globally.
 
 
+## Awards and Fellowships
+
+● GGCS Spring Quarter Fellowship Award, UC Davis (2023, 2024) \\
+● GGCS Summer Ph.D. Fellowship (2023, 2024)
+<br/>
 
 
-## Awards
+## Teaching Assistant Experience
 
-- ##### GGCS Spring Quarter Fellowship Award, UC Davis (2023, 2024)
-- ##### GGCS Summer Ph.D. Fellowship (2023, 2024)
-
-
-
-## Teaching
-
-- ECS265, Distributed Database Systems, UC Davis, [Fall 2024](https://expolab.org/ecs265-fall2024.html), [Fall 2025](https://expolab.org/ecs265-fall2024.html), Teaching Assistant
-- ECS189F, Special Topics: Databases, UC Davis, [Fall 2023](https://expolab.org/ecs189f-fall-2023/index.html), Teaching Assistant
-- ECS165A, Databases, UC Davis, [Winter 2023](https://expolab.org/ecs165a-winter2023.html), Teaching Assistant
-- ECS188, Ethics in an Age of Technology, UC Davis, [Spring 2025](https://ethics.expolab.org/#/), Teaching Assistant
+● **ECS265**, Distributed Database Systems, UC Davis, [Fall 2024](https://expolab.org/ecs265-fall2024.html), [Fall 2025](https://expolab.org/ecs265-fall2024.html)\\
+● **ECS189F**, Special Topics: Databases, UC Davis, [Fall 2023](https://expolab.org/ecs189f-fall-2023/index.html)\\
+● **ECS165A**, Databases, UC Davis, [Winter 2023](https://expolab.org/ecs165a-winter2023.html)\\
+● **ECS188**, Ethics in an Age of Technology, UC Davis, [Spring 2025](https://ethics.expolab.org/#/)
 
 
 
 ## Other Personal Links
 
-- [Google Scholar](https://scholar.google.com/citations?hl=en&user=Ut1KRqoAAAAJ)
-- [LinkedIn](https://www.linkedin.com/in/dakai-kang-288451227/)
-- [Instagram](https://www.instagram.com/dakaikang4/)
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=Ut1KRqoAAAAJ), [LinkedIn](https://www.linkedin.com/in/dakai-kang-288451227/)
 
 
 #### Science is for Human Development
