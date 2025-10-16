@@ -19,9 +19,11 @@ I am a fourth-year Ph.D. student in Computer Science at ExpoLab, UC Davis, where
 
 [3] <u>Kang, D.</u>, Gupta, S., Malkhi, D., & Sadoghi, M. (2025). Hotstuff-1: Linear consensus with one-phase speculation. *Proceedings of the ACM on Management of Data*, *3*(3), 1-29. [*Preprint*](https://arxiv.org/abs/2408.04728), [*Paper*](https://dl.acm.org/doi/10.1145/3725308), [*Blog*](https://decentralizedthoughts.github.io/2024-08-24-hotstuff1/).
 
-[4] Xie, S., <u>Kang, D</u>., Lyu, H., Niu, J., & Sadoghi, M. (2025). Fides: Scalable Censorship-Resistant DAG Consensus via Trusted Components. arXiv preprint arXiv:2501.01062. [*Preprint*](https://arxiv.org/abs/2501.01062).
+[4] <u>Kang, D.</u>, Rahnama, S., Hellings, J., & Sadoghi, M. (2024, May). Spotless: Concurrent rotational consensus made practical through rapid view synchronization. In 2024 IEEE 40th International Conference on Data Engineering (ICDE)(pp. 1916-1929). IEEE. [*Preprint*](https://arxiv.org/abs/2302.02118), [*Paper*](https://ieeexplore.ieee.org/document/10597971/).
 
-[5] <u>Kang, D.</u>, Rahnama, S., Hellings, J., & Sadoghi, M. (2024, May). Spotless: Concurrent rotational consensus made practical through rapid view synchronization. In 2024 IEEE 40th International Conference on Data Engineering (ICDE)(pp. 1916-1929). IEEE. [*Preprint*](https://arxiv.org/abs/2302.02118), [*Paper*](https://ieeexplore.ieee.org/document/10597971/).
+### Preprints
+
+[5] Xie, S., <u>Kang, D</u>., Lyu, H., Niu, J., & Sadoghi, M. (2025). Fides: Scalable Censorship-Resistant DAG Consensus via Trusted Components. arXiv preprint arXiv:2501.01062. [*Preprint*](https://arxiv.org/abs/2501.01062).
 
 
 ## Professional Experiences
