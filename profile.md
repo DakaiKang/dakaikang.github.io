@@ -37,6 +37,7 @@ Full-stack software development.
 ## Peer Review Service
 
 ##### **Invited Reviewer**
+● IEEE International Conference on Data Engineering (**ICDE**, Demo Track), 2026\\
 ● IEEE Transactions on Information Forensics and Security (**T-IFS**), 2025\\
 ● IEEE Transactions on Dependable and Secure Computing (**TDSC**), 2025\\
 ● ACM **SIGMOD ARI** (Availability & Reproducibility Initiative), 2025\\
