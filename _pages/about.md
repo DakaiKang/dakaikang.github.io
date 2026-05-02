@@ -17,7 +17,7 @@ I conduct my research on our resilient data platform **[ResilientDB](https://exp
 
 Links
 ======
-[Google Scholar](https://scholar.google.com/citations?hl=en&user=Ut1KRqoAAAAJ) · [LinkedIn](https://www.linkedin.com/in/dakai-kang-288451227/) · [GitHub](https://github.com/DakaiKang)
+[Google Scholar](https://scholar.google.com/citations?user=HCut6YEAAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/dakai-kang-288451227/) · [GitHub](https://github.com/DakaiKang)
 
 ----
 
