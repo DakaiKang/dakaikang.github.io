@@ -1,5 +1,5 @@
 ---
-title: "ECS189F — Special Topics: Databases"
+title: "ECS189F — Distributed Ledgers"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2023-fall-ecs189f
@@ -8,6 +8,6 @@ date: 2023-09-01
 location: "Davis, CA"
 ---
 
-Teaching Assistant for ECS189F, Special Topics: Databases, Fall 2023.
+Teaching Assistant for ECS189F, Distributed Ledgers, Fall 2023.
 
 [Course site](https://expolab.org/ecs189f-fall-2023/index.html)

@@ -9,29 +9,36 @@ redirect_from:
 
 {% include base_path %}
 
+[Download CV (PDF)]({{ base_path }}/files/cv-dakai-kang.pdf){: .btn .btn--primary}
+
 Education
 ======
-* Ph.D. Candidate in Computer Science, University of California, Davis, 2022 – present
-  * Advisor: [Prof. Mohammad Sadoghi](https://expolab.org), [ExpoLab](https://expolab.org)
+* **Ph.D. Candidate, Computer Science**, University of California, Davis, *Sep 2022 – present*
+  * Advisor: [Prof. Mohammad Sadoghi](mailto:msadoghi@ucdavis.edu), [Exploratory Systems Lab (ExpoLab)](https://expolab.org)
   * Advanced to candidacy November 2024
-* B.S. in Computer Science, Zhejiang University, 2022
+  * Research topics: High-Performance Blockchain Infrastructure; BFT Consensus Protocols; Transaction Scheduling; Parallel Execution; MEV Problem
+  * Awards: GGCS Spring Quarter Fellowship Award (2023, 2024); GGCS Summer Ph.D. Fellowship (2023, 2024)
+
+* **GREAT (Global Research Experience in Advanced Technology) Program**, UC Davis, *Sep 2021 – Jul 2022*
+  * Research Assistant Intern, [Exploratory Systems Lab](https://expolab.org) (Remote)
+
+* **B.Eng., Software Engineering**, Zhejiang University, *Sep 2018 – Jul 2022*
+  * Hangzhou, China
+  * Awards: Third Prize Scholarship of Zhejiang University (2019, 2020, 2021); Excellent Engineer Scholarship of Software Engineering Major (2022)
 
 Work experience
 ======
-* Summer 2025: Research Intern, **Mysten Labs**, Palo Alto, CA (June 2025 – September 2025)
-  * Conducting research on transaction scheduling for parallel execution in multi-proposer Byzantine Fault Tolerant (BFT) consensus protocols.
+* **Research Intern, Mysten Labs**, *Jun 2025 – Sep 2025*, Remote
+  * Mentors: Lefteris Kokoris-Kogias, Alberto Sonnino.
+  * Worked on a research project on transaction scheduling in DAG-based consensus to accelerate parallel transaction execution and mitigate congestion under high-contention workloads.
 
-* 2020: Intern Software Engineer, **Hangzhou Zhuxing Information Technology Co., Ltd**, Hangzhou
-  * Full-stack software development.
+* **Fullstack Software Engineer Intern, Hangzhou Zhuxing Information Technology Co., Ltd.**, *Jul 2020 – Oct 2020*, Hangzhou, China
 
 Open-source
 ======
-* **[ResilientDB](https://resilientdb.incubator.apache.org)** (Apache Incubation): re-architected modular system design from the ground up since 2022, embedding parallelism and deep pipelining at every layer. [[blog](https://blog.resilientdb.com)] [[codebase](https://github.com/resilientdb/resilientdb)]
-
-Awards and Fellowships
-======
-* GGCS Spring Quarter Fellowship Award, UC Davis (2023, 2024)
-* GGCS Summer Ph.D. Fellowship (2023, 2024)
+* **[ResilientDB](https://expolab.resilientdb.com)** (Apache Incubation) — *Architect*
+  * Implemented BFT consensus protocols in ResilientDB, including PBFT, HotStuff-1, and FairDAG.
+  * GitHub: [apache/incubator-resilientdb](https://github.com/apache/incubator-resilientdb)
 
 Publications
 ======
@@ -48,11 +55,14 @@ Teaching
 Service
 ======
 
+**Program Committee Member**
+* International Symposium on Reliable Distributed Systems (**SRDS**), 2026
+
 **Invited Reviewer**
 * IEEE International Conference on Data Engineering (**ICDE**, Demo Track), 2026
 * IEEE Transactions on Information Forensics and Security (**T-IFS**), 2025
-* IEEE Transactions on Dependable and Secure Computing (**TDSC**), 2025
-* ACM **SIGMOD ARI** (Availability & Reproducibility Initiative), 2025
+* IEEE Transactions on Dependable and Secure Computing (**TDSC**), 2025 – 2026
+* ACM **SIGMOD** ARI (Availability & Reproducibility Initiative), 2025
 * European Conference on Computer Systems (**EuroSys**) Shadow PC program, 2026
 
 **External Reviewer**
