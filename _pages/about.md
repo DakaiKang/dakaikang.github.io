@@ -7,6 +7,9 @@ redirect_from:
   - /about.html
 ---
 
+**News:** I will be joining [Sei Labs](https://www.sei.io) as a **Research Scientist** in June 2026.
+{: .notice--info}
+
 I am a fourth-year Ph.D. student in Computer Science at [ExpoLab](https://expolab.org), UC Davis, where I became a Ph.D. candidate in November 2024 after passing the Qualifying Examination. I conduct my research under the supervision of [Prof. Mohammad Sadoghi](https://expolab.org). My work focuses on designing and building high-performance, fault-tolerant distributed systems that operate reliably under adversarial conditions.
 
 My research interests include **high-performance blockchain infrastructure**, **BFT consensus protocols**, **transaction scheduling**, **parallel execution**, and the **MEV problem**. I earned my B.Eng. in Software Engineering from Zhejiang University in 2022.
