@@ -7,23 +7,19 @@ redirect_from:
   - /about.html
 ---
 
-**News:** I will be joining [Sei Labs](https://www.sei.io) as a **Research Scientist** in June 2026.
+**News.** I will be joining [Sei Labs](https://www.sei.io) as a **Research Scientist** in June 2026.
 {: .notice--info}
 
-I am a fourth-year Ph.D. student in Computer Science at [ExpoLab](https://expolab.org), UC Davis, where I became a Ph.D. candidate in November 2024 after passing the Qualifying Examination. I conduct my research under the supervision of [Prof. Mohammad Sadoghi](https://expolab.org). My work focuses on designing and building high-performance, fault-tolerant distributed systems that operate reliably under adversarial conditions.
+I am a Ph.D. candidate in Computer Science at the [Exploratory Systems Lab](https://expolab.org) (ExpoLab), UC Davis, advised by [Prof. Mohammad Sadoghi](https://expolab.org). My research designs and builds high-performance, fault-tolerant distributed systems that remain resilient under adversarial conditions — the foundations of next-generation blockchain infrastructure.
 
-My research interests include **high-performance blockchain infrastructure**, **BFT consensus protocols**, **transaction scheduling**, **parallel execution**, and the **MEV problem**. I earned my B.Eng. in Software Engineering from Zhejiang University in 2022.
+My current interests include **Byzantine Fault Tolerant (BFT) consensus**, **fair transaction ordering**, **transaction scheduling**, **parallel execution**, and **MEV mitigation**. My work has appeared at **VLDB**, **SIGMOD**, **PODC**, **DISC**, and **ICDE** — including [HotStuff-1](https://dl.acm.org/doi/10.1145/3725308) (SIGMOD 2025; *Honorable Mention for Best Artifact*), [FairDAG](https://www.vldb.org/pvldb/vol19/p265-kang.pdf) (PVLDB Vol. 19), [Carry the Tail](https://doi.org/10.4230/LIPIcs.DISC.2025.59) (DISC 2025), and [Spotless](https://ieeexplore.ieee.org/document/10597971/) (ICDE 2024). In summer 2025, I was a Research Intern at [**Mysten Labs**](https://www.mystenlabs.com), where I worked with Lefteris Kokoris-Kogias and Alberto Sonnino on transaction scheduling for DAG-based consensus. I received my B.Eng. in Software Engineering from Zhejiang University in 2022.
 
-Open-source work
+Open-source
 ======
-I conduct my research on our resilient data platform **[ResilientDB](https://expolab.resilientdb.com)** [[blog](https://blog.resilientdb.com), [GitHub](https://github.com/apache/incubator-resilientdb)] — a distributed ledger that centers around a democratic and decentralized computational model, with the goal of unifying secure transactional and real-time analytical processing. ResilientDB is currently under Apache Incubation, and I serve as an **Architect**, having implemented BFT consensus protocols including PBFT, HotStuff-1, and FairDAG. Since 2022, alongside my talented peer Junchao, we have re-architected and re-imagined its modular system design from the ground up. Our design embeds parallelism and deep pipelining at every layer to fully harness modern hardware and cloud infrastructure globally.
+I serve as an **Architect** of [**ResilientDB**](https://expolab.resilientdb.com) — an Apache-incubator distributed ledger that unifies secure transactional and real-time analytical processing under a decentralized computational model. Since 2022, my colleague Junchao and I have re-architected its modular system design from the ground up, embedding parallelism and deep pipelining at every layer to fully exploit modern hardware. I have implemented its production BFT engines, including **PBFT**, **HotStuff-1**, and **FairDAG**.
 
-Links
+[Project site](https://expolab.resilientdb.com) · [GitHub](https://github.com/apache/incubator-resilientdb) · [Blog](https://blog.resilientdb.com)
+
+Contact
 ======
-[Google Scholar](https://scholar.google.com/citations?user=HCut6YEAAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/dakai-kang-288451227/) · [GitHub](https://github.com/DakaiKang)
-
-----
-
-#### Science is for Human Development
-
-*The purpose of scientific research is to bring a better life to the human beings. I fully support any action that is conducive to the spread of universal values and the development of human civilization, and firmly stand with the oppressed weak around the world.*
+[Email](mailto:dakang@ucdavis.edu) · [Google Scholar](https://scholar.google.com/citations?user=HCut6YEAAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/dakai-kang-288451227/) · [GitHub](https://github.com/DakaiKang)

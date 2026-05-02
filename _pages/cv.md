@@ -28,9 +28,9 @@ Education
 
 Work experience
 ======
-* **Research Scientist, [Sei Labs](https://www.sei.io)**, *Jun 2026 – present (incoming)*
+* **Research Scientist, [Sei Labs, Inc.](https://www.sei.io)**, *Jun 2026 – present (incoming)*
 
-* **Research Intern, Mysten Labs**, *Jun 2025 – Sep 2025*, Remote
+* **Research Intern, [Mysten Labs, Inc.](https://www.mystenlabs.com)**, *Jun 2025 – Sep 2025*, Remote
   * Mentors: Lefteris Kokoris-Kogias, Alberto Sonnino.
   * Worked on a research project on transaction scheduling in DAG-based consensus to accelerate parallel transaction execution and mitigate congestion under high-contention workloads.
 
