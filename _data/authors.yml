@@ -1,0 +1,10 @@
+# Authors used by posts that override the default site author.
+# The default author for the sidebar comes from _config.yml.
+
+Dakai Kang:
+  name        : "Dakai Kang"
+  uri         : "https://dakaikang.github.io"
+  email       : "dakang@ucdavis.edu"
+  bio         : "PhD candidate at UC Davis ExpoLab. BFT consensus and distributed systems."
+  avatar      : "profile.png"
+  github      : "DakaiKang"
