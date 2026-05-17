@@ -31,7 +31,7 @@ Work experience
 * **Research Scientist, [Sei Labs, Inc.](https://www.sei.io)**, *Starting in June 2026 (incoming)*
 
 * **Research Intern, [Mysten Labs, Inc.](https://www.mystenlabs.com)**, *Jun 2025 – Sep 2025*, Remote
-  * Worked on a research project on transaction scheduling in DAG-based consensus to accelerate parallel transaction execution and mitigate congestion under high-contention workloads.
+  * Worked on a research project on transaction scheduling in Multi-proposer consensus to accelerate parallel transaction execution and mitigate congestion under high-contention workloads.
 
 * **Fullstack Software Engineer Intern, Hangzhou Zhuxing Information Technology Co., Ltd.**, *Jul 2020 – Oct 2020*, Hangzhou, China
 
