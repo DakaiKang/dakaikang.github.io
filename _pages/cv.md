@@ -28,7 +28,7 @@ Education
 
 Work experience
 ======
-* **Research Scientist, [Sei Labs, Inc.](https://www.sei.io)**, *Jun 2026 – present (incoming)*
+* **Research Scientist, [Sei Labs, Inc.](https://www.sei.io)**, *Starting Jun 2026 (incoming)*
 
 * **Research Intern, [Mysten Labs, Inc.](https://www.mystenlabs.com)**, *Jun 2025 – Sep 2025*, Remote
   * Mentors: Lefteris Kokoris-Kogias, Alberto Sonnino.
