@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Dakai Kang"
 title_separator          : "|"
 name                     : &name "Dakai Kang"
-description              : &description "PhD candidate, UC Davis ExpoLab — Byzantine Fault Tolerant consensus and distributed systems."
+description              : &description "Research Scientist at Sei Labs — Byzantine Fault Tolerant consensus and distributed systems."
 url                      : https://dakaikang.github.io
 baseurl                  : ""
 repository               : "DakaiKang/dakaikang.github.io"
@@ -25,9 +25,9 @@ author:
   avatar           : "profile.png"
   name             : "Dakai Kang"
   pronouns         :
-  bio              : "PhD candidate at UC Davis ExpoLab. Byzantine Fault Tolerant consensus and distributed systems."
-  location         : "Davis, CA"
-  employer         : "UC Davis"
+  bio              : "Research Scientist at Sei Labs. Byzantine Fault Tolerant consensus and distributed systems."
+  location         :
+  employer         : "Sei Labs"
   uri              :
   email            : "dakang@ucdavis.edu"
 
