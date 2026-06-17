@@ -13,9 +13,8 @@ redirect_from:
 
 Education
 ======
-* **Ph.D. Candidate, Computer Science**, University of California, Davis, *Sep 2022 – present*
+* **Ph.D., Computer Science**, University of California, Davis, *Sep 2022 – Jun 2026*
   * Advisor: [Prof. Mohammad Sadoghi](mailto:msadoghi@ucdavis.edu), [Exploratory Systems Lab (ExpoLab)](https://expolab.org)
-  * Advanced to candidacy November 2024
   * Research topics: High-Performance Blockchain Infrastructure; BFT Consensus Protocols; Transaction Scheduling; Parallel Execution; MEV Problem
   * Awards: GGCS Spring Quarter Fellowship Award (2023, 2024); GGCS Summer Ph.D. Fellowship (2023, 2024)
 
@@ -28,7 +27,7 @@ Education
 
 Work experience
 ======
-* **Research Scientist, [Sei Labs, Inc.](https://www.sei.io)**, *Starting in June 2026 (incoming)*
+* **Research Scientist, [Sei Labs, Inc.](https://www.sei.io)**, *Jun 2026 – present*
 
 * **Research Intern, [Mysten Labs, Inc.](https://www.mystenlabs.com)**, *Jun 2025 – Sep 2025*, Remote
   * Worked on a research project on transaction scheduling in Multi-proposer consensus to accelerate parallel transaction execution and mitigate congestion under high-contention workloads.
