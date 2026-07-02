@@ -22,7 +22,7 @@ repository               : "DakaiKang/dakaikang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Dakai Kang"
   pronouns         :
   bio              : "Research Scientist at Sei Labs. Byzantine Fault Tolerant consensus and distributed systems."
