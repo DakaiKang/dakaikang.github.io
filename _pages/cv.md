@@ -18,9 +18,6 @@ Education
   * Research topics: High-Performance Blockchain Infrastructure; BFT Consensus Protocols; Transaction Scheduling; Parallel Execution; MEV Problem
   * Awards: GGCS Spring Quarter Fellowship Award (2023, 2024); GGCS Summer Ph.D. Fellowship (2023, 2024)
 
-* **GREAT (Global Research Experience in Advanced Technology) Program**, UC Davis, *Sep 2021 – Jul 2022*
-  * Research Assistant Intern, [Exploratory Systems Lab](https://expolab.org) (Remote)
-
 * **B.Eng., Software Engineering**, Zhejiang University, *Sep 2018 – Jul 2022*
   * Hangzhou, China
   * Awards: Third Prize Scholarship of Zhejiang University (2019, 2020, 2021); Excellent Engineer Scholarship of Software Engineering Major (2022)
@@ -28,6 +25,7 @@ Education
 Work experience
 ======
 * **Research Scientist, [Sei Labs, Inc.](https://www.sei.io)**, *Jun 2026 – present*
+  * Leading the Gas Repricing Project for the Sei blockchain to align on-chain gas costs with the actual resource consumption of the execution and consensus layers.
 
 * **Research Intern, [Mysten Labs, Inc.](https://www.mystenlabs.com)**, *Jun 2025 – Sep 2025*, Remote
   * Worked on a research project on transaction scheduling in Multi-proposer consensus to accelerate parallel transaction execution and mitigate congestion under high-contention workloads.

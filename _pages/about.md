@@ -28,4 +28,4 @@ I serve as an **Architect** of [**ResilientDB**](https://expolab.resilientdb.com
 
 Contact
 ======
-[Email](mailto:dakang@ucdavis.edu) · [Google Scholar](https://scholar.google.com/citations?user=HCut6YEAAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/dakai-kang-288451227/) · [GitHub](https://github.com/DakaiKang)
+[Email](mailto:dakai@seinetwork.io) · [Google Scholar](https://scholar.google.com/citations?user=HCut6YEAAAAJ&hl=en) · [LinkedIn](https://www.linkedin.com/in/dakai-kang-288451227/) · [GitHub](https://github.com/DakaiKang)
