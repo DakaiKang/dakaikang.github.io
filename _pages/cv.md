@@ -16,7 +16,7 @@ Education
 * **Ph.D., Computer Science**, University of California, Davis, *Sep 2022 – Jun 2026*
   * Advisor: [Prof. Mohammad Sadoghi](mailto:msadoghi@ucdavis.edu), [Exploratory Systems Lab (ExpoLab)](https://expolab.org)
   * Dissertation: *Towards High-Performance and Fair Byzantine Consensus: Concurrency, Speculation, Tail-Forking Resilience, and Transaction Ordering.* Committee: Mohammad Sadoghi (Chair), Aditya Thakur, Amanda Raybuck.
-  * Research topics: High-Performance Blockchain Infrastructure; BFT Consensus Protocols; Transaction Scheduling; Parallel Execution; MEV Problem
+  * Research topics: High-Performance Blockchain Infrastructure; Fault-Tolerant Consensus Protocols; Transaction Scheduling; Parallel Execution
   * Awards: GGCS Spring Quarter Fellowship Award (2023, 2024); GGCS Summer Ph.D. Fellowship (2023, 2024)
 
 * **B.Eng., Software Engineering**, Zhejiang University, *Sep 2018 – Jul 2022*
@@ -38,7 +38,7 @@ Work experience
 Open-source
 ======
 * **[ResilientDB](https://expolab.resilientdb.com)** (Apache Incubation) — *Architect*
-  * Implemented BFT consensus protocols in ResilientDB, including PBFT, HotStuff-1, and FairDAG.
+  * Implemented consensus protocols in ResilientDB, including PBFT, HotStuff-1, and FairDAG.
   * GitHub: [apache/incubator-resilientdb](https://github.com/apache/incubator-resilientdb)
 
 Publications
