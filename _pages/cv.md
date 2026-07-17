@@ -15,6 +15,7 @@ Education
 ======
 * **Ph.D., Computer Science**, University of California, Davis, *Sep 2022 – Jun 2026*
   * Advisor: [Prof. Mohammad Sadoghi](mailto:msadoghi@ucdavis.edu), [Exploratory Systems Lab (ExpoLab)](https://expolab.org)
+  * Dissertation: *Towards High-Performance and Fair Byzantine Consensus: Concurrency, Speculation, Tail-Forking Resilience, and Transaction Ordering.* Committee: Mohammad Sadoghi (Chair), Aditya Thakur, Amanda Raybuck.
   * Research topics: High-Performance Blockchain Infrastructure; BFT Consensus Protocols; Transaction Scheduling; Parallel Execution; MEV Problem
   * Awards: GGCS Spring Quarter Fellowship Award (2023, 2024); GGCS Summer Ph.D. Fellowship (2023, 2024)
 
