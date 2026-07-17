@@ -27,6 +27,7 @@ Work experience
 ======
 * **Research Scientist, [Sei Labs, Inc.](https://www.sei.io)**, *Jun 2026 – present*
   * Leading the Gas Repricing Project for the Sei blockchain to align on-chain gas costs with the actual resource consumption of the execution and storage layers.
+  * Contributing to a dual-path low-latency consensus project that reduces transaction commit latency by combining a fast optimistic path with a fallback path.
 
 * **Research Intern, [Mysten Labs, Inc.](https://www.mystenlabs.com)**, *Jun 2025 – Sep 2025*, Remote
   * Worked on a research project on transaction scheduling in Multi-proposer consensus to accelerate parallel transaction execution and mitigate congestion under high-contention workloads.
