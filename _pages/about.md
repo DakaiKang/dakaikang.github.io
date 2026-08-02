@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-**News.** Our paper **Cassandra: Consensus with Partial Progress via Robust Partitionable View Synchronization** is accepted at **VLDB 2027**.
+**News.** [Nov 2026] Our paper [**Cassandra: Consensus with Partial Progress via Robust Partitionable View Synchronization**](https://arxiv.org/abs/2607.02856) is accepted at **VLDB 2027**.
 {: .notice--info}
 
 **News.** [Jul 2026] Our paper [**FEAT: Fair and Efficient Adversarial Transaction Ordering**](https://dl.acm.org/doi/10.1145/3796701.3815905) is officially published at **PODC 2026**.
 {: .notice--info}
 
-**News.** [Jun 2026] Our paper **Fides: Scalable Censorship-Resistant DAG Consensus via Trusted Components** is accepted at **VLDB 2026**.
+**News.** [Jun 2026] Our paper [**Fides: Scalable Censorship-Resistant DAG Consensus via Trusted Components**](https://arxiv.org/abs/2501.01062) is accepted at **VLDB 2026**.
 {: .notice--info}
 
 **News.** [Jun 2026] I joined [**Sei Labs, Inc.**](https://www.sei.io) as a **Research Scientist**.
