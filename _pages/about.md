@@ -7,6 +7,9 @@ redirect_from:
   - /about.html
 ---
 
+**News.** Our paper **Cassandra: Consensus with Partial Progress via Robust Partitionable View Synchronization** is accepted at **VLDB 2027**.
+{: .notice--info}
+
 **News.** [Jul 2026] Our paper [**FEAT: Fair and Efficient Adversarial Transaction Ordering**](https://dl.acm.org/doi/10.1145/3796701.3815905) is officially published at **PODC 2026**.
 {: .notice--info}
 
