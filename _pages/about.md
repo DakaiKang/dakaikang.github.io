@@ -7,6 +7,9 @@ redirect_from:
   - /about.html
 ---
 
+**News.** [Aug 2026] My Ph.D. dissertation [***Towards High-Performance and Fair Byzantine Consensus: Concurrency, Speculation, Tail-Forking Resilience, and Transaction Ordering***](https://www.proquest.com/docview/3377814390) is published on **ProQuest**.
+{: .notice--info}
+
 **News.** [Aug 2026] Our paper [**Cassandra: Consensus with Partial Progress via Robust Partitionable View Synchronization**](https://arxiv.org/abs/2607.02856) is accepted at **VLDB 2027**.
 {: .notice--info}
 
